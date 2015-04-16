@@ -7,6 +7,13 @@
 
 ## Directory-based project format:
 .idea/
+
+## node modules
+node_modules/
+
+## bower
+bower_components/
+
 # if you remove the above rule, at least ignore the following:
 
 # User-specific stuff:
